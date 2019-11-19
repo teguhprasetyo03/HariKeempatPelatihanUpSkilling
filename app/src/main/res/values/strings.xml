@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Room Database</string>
+    <string name="data_mahasiswa">Data Mahasiswa</string>
+    <string name="npm_mahasiswa">NPM Mahasiswa</string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="alamat">Alamat</string>
+    <string name="submit">Submit</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="lihat_data">Lihat Data</string>
+</resources>
